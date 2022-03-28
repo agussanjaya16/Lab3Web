@@ -21,7 +21,7 @@ Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
 
 ## 2. Membuat Unorderd list
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada
-section unordered-list, seperti berikut.
+section unordered-list, seperti berikut.<br>
 ![Lab3web](img/kode%20unorderd%20list.PNG)
 
 Dan ini hasilnya:<br>
