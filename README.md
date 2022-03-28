@@ -14,5 +14,5 @@ Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 ## 1. Membuat ordered list
 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
 ![p](img/kode%20ordered%20list.PNG)
-
+ Dan ini hasilnya.
 ![p](img/membuat%20ordered%20list.PNG)
