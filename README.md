@@ -63,9 +63,25 @@ horizontal).<br>
 
 Dan ini hasilnya:<br>
 
-|[Lab3web](img/menggabungkan%20sel%20data.PNG)<br>
+![Lab3web](img/menggabungkan%20sel%20data.PNG)<br>
 
+## 7. Membuat form
+Buat file baru dengan nama lab3_form.html, Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:<br>
+![Lab3web](img/kode%20membuat%20form.PNG)<br>
 
+Dan ini hasilnya:<br>
 
+![Lab3web](img/membuat%20form.PNG)
 
+## 8. Menambahkan Style pada Form
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.<br>
+![Lab3web](img/kode%20style%20css.PNG)<br>
 
+Dan ini hasilnya:<br>
+
+![Lab3web](img/style%20css.PNG)<br>
+
+## SOAL 
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.<br>
+## jawaban<br>
+![Lab3web](img/jawaban.PNG)
