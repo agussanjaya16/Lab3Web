@@ -25,6 +25,7 @@ section unordered-list, seperti berikut.
 ![Lab3web](img/kode%20unorderd%20list.PNG)
 
 Dan ini hasilnya.
+
 ![Lab3web](img/membuat%20unorderd%20list.PNG)
 
 ## Membuat Descriftion list
@@ -32,4 +33,19 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 ![Lab3web](img/kode%20membuat%20desciftion%20list.PNG)
 
 Dan ini hasilnnya:
+
 ![Lab3web](img/membuat%20descriftion%20list.PNG)
+
+Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list.
+
+## Membuat Tabel
+Buat file baru dengan nama lab3_tabel.html dan Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut
+![Lab3web](img/kode%20membuat%20tabel.PNG)
+
+Dan ini hasilnya :
+
+![Lab3web](img/membuat%20tabel.PNG)
+
+
+
+
