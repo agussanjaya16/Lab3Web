@@ -28,7 +28,7 @@ Dan ini hasilnya:<br>
 
 ![Lab3web](img/membuat%20unorderd%20list.PNG)
 
-## Membuat Descriftion list
+## 3. Membuat Descriftion list
 Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.<br>
 ![Lab3web](img/kode%20membuat%20desciftion%20list.PNG)
 
@@ -38,7 +38,7 @@ Dan ini hasilnnya:<br>
 
 Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list.<br>
 
-## Membuat Tabel
+## 4. Membuat Tabel
 Buat file baru dengan nama lab3_tabel.html dan Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut.<br>
 ![Lab3web](img/kode%20membuat%20tabel.PNG)
 
@@ -46,7 +46,7 @@ Dan ini hasilnya :<br>
 
 ![Lab3web](img/membuat%20tabel.PNG)
 
-## Mengatur Margin dan Padding
+## 5. Mengatur Margin dan Padding
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
 cellspacing pada tag table.<br>
 ![Lab3web](img/tabel%20tebal.PNG)
@@ -54,6 +54,16 @@ cellspacing pada tag table.<br>
 Dan ini hasilnya :<br>
 
 ![Lab3web](img/membuat%20tabel%20tebal.PNG)
+
+## 6. menggabungkan sel data
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
+horizontal).<br>
+![Lab3web](img/kode%20menggabungkan%20sel%20data.PNG)<br>
+
+Dan ini hasilnya:<br>
+
+|[Lab3web](img/menggabungkan%20sel%20data.PNG)<br>
 
 
 
