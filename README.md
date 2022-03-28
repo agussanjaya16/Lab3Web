@@ -26,3 +26,10 @@ section unordered-list, seperti berikut.
 
 Dan ini hasilnya.
 ![Lab3web](img/membuat%20unorderd%20list.PNG)
+
+## Membuat Descriftion list
+Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+![Lab3web](img/kode%20membuat%20desciftion%20list.PNG)
+
+Dan ini hasilnnya:
+![Lab3web](img/membuat%20descriftion%20list.PNG)
