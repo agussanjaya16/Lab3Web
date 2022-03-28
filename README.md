@@ -6,3 +6,4 @@
 | Kelas         | TI.20.A1       |
 | Matkul        | Pemograman web |
 
+![p](img/membuat%20ordered%20list.PNG)
