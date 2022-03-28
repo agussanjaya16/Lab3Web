@@ -46,6 +46,16 @@ Dan ini hasilnya :
 
 ![Lab3web](img/membuat%20tabel.PNG)
 
+## Mengatur Margin dan Padding
+Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
+cellspacing pada tag table.
+![Lab3web](img/tabel%20tebal.PNG)
+
+Dan ini hasilnya :<br>
+
+![Lab3web](img/membuat%20tabel%20tebal.PNG)
+
+
 
 
 
