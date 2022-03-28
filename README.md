@@ -15,7 +15,7 @@ Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
 ![Lab3web](img/kode%20ordered%20list.PNG)
 
- Dan ini hasilnya.
+ Dan ini hasilnya:<br>
 
 ![Lab3web](img/membuat%20ordered%20list.PNG)
 
@@ -24,7 +24,7 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered l
 section unordered-list, seperti berikut.
 ![Lab3web](img/kode%20unorderd%20list.PNG)
 
-Dan ini hasilnya.
+Dan ini hasilnya:<br>
 
 ![Lab3web](img/membuat%20unorderd%20list.PNG)
 
@@ -32,7 +32,7 @@ Dan ini hasilnya.
 Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 ![Lab3web](img/kode%20membuat%20desciftion%20list.PNG)
 
-Dan ini hasilnnya:
+Dan ini hasilnnya:<br>
 
 ![Lab3web](img/membuat%20descriftion%20list.PNG)
 
@@ -42,7 +42,7 @@ Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pad
 Buat file baru dengan nama lab3_tabel.html dan Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut
 ![Lab3web](img/kode%20membuat%20tabel.PNG)
 
-Dan ini hasilnya :
+Dan ini hasilnya :<br>
 
 ![Lab3web](img/membuat%20tabel.PNG)
 
