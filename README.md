@@ -8,11 +8,11 @@
 
 
 ## Langkah - langkah praktikum
-Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
+Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.<br>
 ![Lab3web](img/langkah%20langkah.PNG)
 
 ## 1. Membuat ordered list
-Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
+Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.<br>
 ![Lab3web](img/kode%20ordered%20list.PNG)
 
  Dan ini hasilnya:<br>
@@ -29,17 +29,17 @@ Dan ini hasilnya:<br>
 ![Lab3web](img/membuat%20unorderd%20list.PNG)
 
 ## Membuat Descriftion list
-Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.<br>
 ![Lab3web](img/kode%20membuat%20desciftion%20list.PNG)
 
 Dan ini hasilnnya:<br>
 
 ![Lab3web](img/membuat%20descriftion%20list.PNG)
 
-Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list.
+Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list.<br>
 
 ## Membuat Tabel
-Buat file baru dengan nama lab3_tabel.html dan Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut
+Buat file baru dengan nama lab3_tabel.html dan Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut.<br>
 ![Lab3web](img/kode%20membuat%20tabel.PNG)
 
 Dan ini hasilnya :<br>
@@ -48,7 +48,7 @@ Dan ini hasilnya :<br>
 
 ## Mengatur Margin dan Padding
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
-cellspacing pada tag table.
+cellspacing pada tag table.<br>
 ![Lab3web](img/tabel%20tebal.PNG)
 
 Dan ini hasilnya :<br>
